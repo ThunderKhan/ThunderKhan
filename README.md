@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm @ThunderKhan</h1>
+<h1 align="center">Hey there 👋, I'm Ayan Khan</h1>
 
 <p align="center">
   🌱 Curious learner | 🛡️ Ethical Hacking Enthusiast | 💻 Future C Programmer | 🌐 HTML Explorer
@@ -10,10 +10,10 @@
 
 I'm a student on a relentless journey through the world of computers. Before even starting college, I've dived deep into:
 
-- 🖥️ C Programming — mastering the core of how machines think
-- 🌐 HTML & Web Development — building the web from scratch
-- 🧠 Ethical Hacking — learning how to protect by understanding how to break
-- 🐧 Linux (Kali) — living in the terminal, one command at a time
+- 🖥️ C Programming — mastering the core of how machines think  
+- 🌐 HTML & Web Development — building the web from scratch  
+- 🧠 Ethical Hacking — learning how to protect by understanding how to break  
+- 🐧 Linux (Kali) — living in the terminal, one command at a time  
 
 I’m building, breaking, and learning in public—with every push, commit, and repo.
 
@@ -32,10 +32,10 @@ I’m building, breaking, and learning in public—with every push, commit, and 
 
 Here are some of the repositories I'm nurturing:
 
-- `C-Language-Lab` — My sandbox for practicing C concepts
-- `HTML-Creations` — Simple websites, forms, and layouts
-- `EthicalHacking-Journal` — My lab notes and experiments in ethical hacking
-- `Neuron-Garden` — My growing vault of ideas, notes, and reflections (Markdown format)
+- `C-Language-Lab` — My sandbox for practicing C concepts  
+- `HTML-Creations` — Simple websites, forms, and layouts  
+- `EthicalHacking-Journal` — My lab notes and experiments in ethical hacking  
+- `Neuron-Garden` — My growing vault of ideas, notes, and reflections (Markdown format)  
 
 Stay tuned—more green dots coming soon 🚀
 
@@ -53,20 +53,18 @@ Stay tuned—more green dots coming soon 🚀
 
 ### 📈 GitHub Stats
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrKhan&show_icons=true&theme=tokyonight" alt="Mr. Khan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThunderKhan&show_icons=true&theme=tokyonight" alt="ThunderKhan's GitHub stats" />
 </p>
 
 ---
 
 ### 🎯 Current Goals
 
-- Contribute to open-source security tools (someday 🔐)
-- Build mini pen-testing labs using VMs
-- Learn Python for scripting in cybersecurity
-- Be consistent. Keep learning. Keep building.
+- Contribute to open-source security tools (someday 🔐)  
+- Build mini pen-testing labs using VMs  
+- Learn Python for scripting in cybersecurity  
+- Be consistent. Keep learning. Keep building.  
 
 ---
 
