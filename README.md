@@ -1,73 +1,27 @@
-<h1 align="center">Hey there 👋, I'm Ayan Khan</h1>
+# 💫 About Me:
+Hi, I’m Mr. Khan — a computer science student and systems-oriented developer<br>interested in compilers, programming languages, and developer tooling.<br><br>I enjoy working close to the fundamentals of computing — parsing, syntax trees,<br>program representation, and low-level execution — and I like building things<br>from scratch to deeply understand how they work.<br><br>Currently, I’m focused on:<br>- building a small experimental compiler and language toolchain<br>- improving my C++ and systems programming skills<br>- designing a powerful Neovim-based development environment<br><br>My long-term goal is to work on programming language infrastructure,<br>developer tools, or performance-critical systems where correctness,<br>clarity, and design matter more than hype.
 
-<p align="center">
-  🌱 Curious learner | 🛡️ Ethical Hacking Enthusiast | 💻 Future C Programmer | 🌐 HTML Explorer
-</p>
 
----
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThunderBorneK) 
 
-### 🧭 Who Am I?
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThunderKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ThunderKhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a student on a relentless journey through the world of computers. Before even starting college, I've dived deep into:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ThunderKhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🖥️ C Programming — mastering the core of how machines think  
-- 🌐 HTML & Web Development — building the web from scratch  
-- 🧠 Ethical Hacking — learning how to protect by understanding how to break  
-- 🐧 Linux (Kali) — living in the terminal, one command at a time  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I’m building, breaking, and learning in public—with every push, commit, and repo.
-
----
-
-### 💼 What I’m Working On Right Now
-
-- Learning **network attacks and defenses** using tools like `airmon-ng`, `airodump-ng`, and `aireplay-ng`
-- Writing **C programs** to understand data structures and logic
-- Making a clean HTML portfolio page from scratch
-- Crafting **notes and mini projects** in Obsidian & pushing to GitHub
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ThunderKhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ThunderKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📘 My Digital Garden 🌱
-
-Here are some of the repositories I'm nurturing:
-
-- `C-Language-Lab` — My sandbox for practicing C concepts  
-- `HTML-Creations` — Simple websites, forms, and layouts  
-- `EthicalHacking-Journal` — My lab notes and experiments in ethical hacking  
-- `Neuron-Garden` — My growing vault of ideas, notes, and reflections (Markdown format)  
-
-Stay tuned—more green dots coming soon 🚀
-
----
-
-### 🔧 Tools & Tech I Use
-
-![Linux](https://img.shields.io/badge/Linux-Kali-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![C](https://img.shields.io/badge/C-Language-blue)
-![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
-![Git](https://img.shields.io/badge/Git-Tracking-informational?logo=git&color=F05032)
-![Obsidian](https://img.shields.io/badge/Notes-Obsidian-483699)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThunderKhan&show_icons=true&theme=tokyonight" alt="ThunderKhan's GitHub stats" />
-</p>
-
----
-
-### 🎯 Current Goals
-
-- Contribute to open-source security tools (someday 🔐)  
-- Build mini pen-testing labs using VMs  
-- Learn Python for scripting in cybersecurity  
-- Be consistent. Keep learning. Keep building.  
-
----
-
-### 📬 Let’s Connect
-
-Feel free to reach out or just follow along. This is just the beginning of my story.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
