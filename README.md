@@ -28,8 +28,6 @@ matter more than hype.
 A minimal experimental compiler focused on clean parsing, well-structured AST
 construction, and extensible code generation.
 
-➡️ (Pin this repository on your GitHub profile)
-
 ---
 
 ## 🌐 Connect
