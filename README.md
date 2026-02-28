@@ -55,13 +55,6 @@ construction, and extensible code generation.
 
 ## 📊 GitHub activity
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThunderKhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00FF41&text_color=C9D1D9&ring_color=7C3AED&fire_color=00FF41&currStreakLabel=7C3AED" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderKhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -83,8 +76,6 @@ construction, and extensible code generation.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ThunderKhan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
-
----
 
 ---
 
