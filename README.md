@@ -72,11 +72,6 @@ construction, and extensible code generation.
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThunderKhan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 <!-- visitor counter is intentionally kept subtle -->
