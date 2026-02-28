@@ -55,8 +55,34 @@ construction, and extensible code generation.
 
 ## 📊 GitHub activity
 
-![](https://github-readme-stats.vercel.app/api?username=ThunderKhan&theme=dark&hide_border=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderKhan&theme=dark&hide_border=true&layout=compact)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThunderKhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00FF41&text_color=C9D1D9&ring_color=7C3AED&fire_color=00FF41&currStreakLabel=7C3AED" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderKhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ThunderKhan">
+    <img src="https://nirzak-streak-stats.vercel.app?user=ThunderKhan&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ThunderKhan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThunderKhan&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&area_color=7c3aed&radius=10" alt="Contribution Graph" width="95%"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThunderKhan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</div>
+
+---
 
 ---
 
