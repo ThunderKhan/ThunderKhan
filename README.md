@@ -17,7 +17,7 @@ how real compilers and tools are designed.
 ### 🎯 Long-term interests
 
 Programming language infrastructure, developer tools, and performance-critical
-systems — especially work where correctness, clarity, and design discipline
+systems especially work where correctness, clarity, and design discipline
 matter more than hype.
 
 ---
