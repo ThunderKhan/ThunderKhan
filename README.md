@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayan Khan!!
+# 👋 Hi, I’m Ayan Khan!
 
 Computer science student and systems-oriented developer focused on  
 **compilers, programming languages, & developer tooling**.
