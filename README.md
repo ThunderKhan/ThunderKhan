@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ayan Khan!
 
 Computer science student and systems-oriented developer focused on  
-**compilers, programming languages, & developer tooling**.
+**compilers, programming-languages, & developer tooling**.
 
 I enjoy working close to the foundations of computing — lexing, parsing,
 abstract syntax trees, intermediate representations, and code generation.
