@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Ayan Khan ðŸ‘‹
+# Hi, I'm Ayan 👋
 
-### Software developer in progress â€” learning deeply, building practically.
+### Software developer in progress — learning deeply, building practically.
 
 I'm a **BCA student specializing in Machine Learning & Data Science** at  
 **Deen Dayal Upadhyaya Gorakhpur University**.
