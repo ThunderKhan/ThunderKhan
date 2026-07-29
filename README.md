@@ -4,8 +4,7 @@
 
 ### Software developer in progress — learning deeply, building practically.
 
-I'm a **BCA student specializing in Machine Learning & Data Science** at  
-**Deen Dayal Upadhyaya Gorakhpur University**.
+I’m an aspiring software developer exploring machine learning, data science, and practical software engineering through hands-on projects.
 
 I enjoy turning ideas into useful software, understanding how things work beneath
 the surface, and becoming a better problem solver one project at a time.
