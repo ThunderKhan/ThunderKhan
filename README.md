@@ -22,11 +22,11 @@ the surface, and becoming a better problem solver one project at a time.
 
 ## About me
 
-- ðŸ”¨ I build **developer tools, web applications, and learning-driven projects**.
-- ðŸ§  I practise **data structures, algorithms, and competitive programming** to sharpen my problem-solving.
-- ðŸ¤– I am building a strong foundation in **machine learning and data science**.
-- ðŸŒ± I am learning how real software is designed, tested, documented, and maintained through **open source and personal projects**.
-- âš™ï¸ I am especially curious about **compilers, developer tooling, AI-assisted software, and systems that make people more productive**.
+- I build **developer tools, web applications, and learning-driven projects**.
+- I practise **data structures, algorithms, and competitive programming** to sharpen my problem-solving.
+- I am building a strong foundation in **machine learning and data science**.
+- I am learning how real software is designed, tested, documented, and maintained through **open source and personal projects**.
+- I am especially curious about **compilers, developer tooling, AI-assisted software, and systems that make people more productive**.
 
 ## Featured projects
 
