@@ -2,9 +2,9 @@
 
 # Ayan Khan
 
-**Student Software Developer | Open Source Contributor | C++ & Python | Systems, ML & Research**
+**Student Software Developer | Open Source | C++ & Python | Systems, ML & Research**
 
-BCA student specializing in Machine Learning & Data Science, focused on building software, contributing to open source, and developing strong foundations in systems and applied machine learning.
+BCA student specializing in Machine Learning & Data Science, interested in systems programming, compiler/tooling work, open source, and applied machine learning.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://thunderkhan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ayan-khan/)
@@ -12,29 +12,38 @@ BCA student specializing in Machine Learning & Data Science, focused on building
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ThunderBorneK)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:AyanKhanOffiiciall@gmail.com)
 
+**BCA · Machine Learning & Data Science · Class of 2028**
+
 </div>
 
 ---
 
+## Current
+
+**Open Source · LLVM · Vāṇi · AI/ML Research · GSoC 2027 preparation**
+
 ## About
 
-I enjoy working close to the implementation: understanding systems, improving performance, and turning ideas into reliable software.
+I like working close to the implementation: understanding how software works underneath the abstractions, improving it when possible, and learning through real code.
 
-My current focus is:
+My interests sit at the intersection of **systems, performance, developer tooling, compilers, and machine learning**.
 
-- **Open source** — Contributing to [AdapTQ](https://github.com/l3tchupkt/adaptq) through Open Source Connect India 2026, with work spanning C++, AVX2/SIMD optimization, runtime behavior, benchmarking, and correctness testing.
-- **Systems** — Building [Vāṇi](https://github.com/ThunderKhan/vani), an offline multilingual voice-messaging system using local connectivity for SIH 2026.
-- **Research** — Exploring questions around AI systems, including prompt sensitivity in quantized language models.
-- **Problem solving** — 223+ DSA problems solved while continuing to strengthen algorithms, data structures, and software design fundamentals.
+## Open Source
+
+Exploring the LLVM ecosystem and compiler/tooling development, while building the habits needed for long-term open-source contribution: reading unfamiliar codebases, understanding existing design, testing changes, and working through review-driven development.
 
 ## Selected Projects
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [AdapTQ](https://github.com/l3tchupkt/adaptq) | Quantization runtime and performance work, including AVX2 paths and runtime benchmarking. | C++, CMake, SIMD |
-| [Vāṇi](https://github.com/ThunderKhan/vani) | Offline multilingual voice messaging over BLE/Wi-Fi. | Kotlin, Android, BLE, Wi-Fi |
-| [NSETerm](https://github.com/ThunderKhan/NSETerm) | C++ terminal for market-data exploration and paper trading. | C++20 |
-| [Prometheus Compiler](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler exploring tokenization, AST construction, semantic analysis, and code generation. | C++, CMake |
+| [**LLVM Project**](https://github.com/ThunderKhan/llvm-project) | Exploring a large-scale production compiler ecosystem and learning compiler internals through the LLVM codebase. | C++, LLVM, CMake |
+| [**Vāṇi**](https://github.com/ThunderKhan/vani) | Offline multilingual voice messaging designed around local connectivity and constrained-network operation. | Kotlin, Android, BLE, Wi-Fi |
+| [**NSETerm**](https://github.com/ThunderKhan/NSETerm) | C++ terminal for market-data exploration and paper trading. | C++20 |
+| [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler exploring tokenization, AST construction, semantic analysis, and code generation. | C++, CMake |
+
+## Engineering Interests
+
+**Systems** · **Performance Engineering** · **Compilers** · **Developer Tooling** · **Applied ML** · **AI Systems**
 
 ## Technical Skills
 
@@ -42,13 +51,17 @@ My current focus is:
 
 **Web:** React, Node.js, Express, Vite, Tailwind CSS, REST APIs
 
-**Systems & Tools:** Git, GitHub, Linux, CMake, debugging, testing
+**Systems & Tools:** Linux, Git, GitHub, CMake, debugging, testing
 
 **Core:** Data Structures & Algorithms, OOP, software design, machine learning fundamentals
 
+## Proof of Work
+
+**223+** DSA problems · **OSCI'26** · **SIH'26** · C++ systems work · Applied ML research
+
 ## Current Direction
 
-Deepening my work in systems and C++, building practical ML knowledge, learning modern JavaScript/TypeScript, and contributing consistently to open-source projects.
+Deepening my understanding of C++ and systems, learning compiler internals through LLVM, building practical ML knowledge, and contributing consistently to open-source software.
 
 ---
 
