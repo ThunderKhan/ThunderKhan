@@ -6,7 +6,11 @@
 
 BCA student specializing in Machine Learning & Data Science, focused on building software, contributing to open source, and developing strong foundations in systems and applied machine learning.
 
-[Portfolio](https://thunderkhan.github.io/) · [LinkedIn](https://www.linkedin.com/in/the-ayan-khan/) · [LeetCode](https://leetcode.com/ThunderKhan/) · [X](https://x.com/ThunderBorneK) · [Email](mailto:AyanKhanOffiiciall@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://thunderkhan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ayan-khan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ThunderKhan/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ThunderBorneK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:AyanKhanOffiiciall@gmail.com)
 
 </div>
 
