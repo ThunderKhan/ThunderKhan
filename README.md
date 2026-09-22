@@ -1,62 +1,55 @@
 <div align="center">
 
-# Ayan Khan 👋
+# Ayan Khan
 
-### Software Developer • Open Source Contributor • ML & Data Science Student
+**Student Software Developer | Open Source Contributor | C++ & Python | Systems, ML & Research**
 
-I’m a second-year BCA student specializing in Machine Learning & Data Science, interested in systems, developer tooling, open source, and practical AI.
+BCA student specializing in Machine Learning & Data Science, focused on building software, contributing to open source, and developing strong foundations in systems and applied machine learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://thunderkhan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ayan-khan/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ThunderKhan/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ThunderBorneK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:AyanKhanOffiiciall@gmail.com)
+[Portfolio](https://thunderkhan.github.io/) · [LinkedIn](https://www.linkedin.com/in/the-ayan-khan/) · [LeetCode](https://leetcode.com/ThunderKhan/) · [X](https://x.com/ThunderBorneK) · [Email](mailto:AyanKhanOffiiciall@gmail.com)
 
 </div>
 
 ---
 
-## What I'm focused on
+## About
 
-- 🔧 **Open source:** Contributor at **Open Source Connect India 2026**, currently working on [AdapTQ](https://github.com/l3tchupkt/adaptq) with C++, SIMD/AVX2 optimization, runtime benchmarking, and correctness testing.
-- 🎙️ **Systems project:** Building [Vāṇi](https://github.com/ThunderKhan/vani), an offline multilingual voice-messaging system designed around BLE/Wi-Fi connectivity for **SIH 2026**.
-- 🧪 **Research:** Exploring lightweight AI/ML systems research, including prompt sensitivity in quantized language models.
-- 🚀 **Long-term:** Building toward **GSoC 2027** through sustained open-source contributions and deeper systems work.
-- 📚 **Problem solving:** 223+ DSA problems solved while strengthening fundamentals in algorithms and software design.
+I enjoy working close to the implementation: understanding systems, improving performance, and turning ideas into reliable software.
 
-## Selected work
+My current focus is:
 
-| Project | Focus | Stack |
+- **Open source** — Contributing to [AdapTQ](https://github.com/l3tchupkt/adaptq) through Open Source Connect India 2026, with work spanning C++, AVX2/SIMD optimization, runtime behavior, benchmarking, and correctness testing.
+- **Systems** — Building [Vāṇi](https://github.com/ThunderKhan/vani), an offline multilingual voice-messaging system using local connectivity for SIH 2026.
+- **Research** — Exploring questions around AI systems, including prompt sensitivity in quantized language models.
+- **Problem solving** — 223+ DSA problems solved while continuing to strengthen algorithms, data structures, and software design fundamentals.
+
+## Selected Projects
+
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [**AdapTQ**](https://github.com/l3tchupkt/adaptq) | Quantization runtime, SIMD optimization, AVX2 paths, benchmarking | C++, CMake |
-| [**Vāṇi**](https://github.com/ThunderKhan/vani) | Offline multilingual voice messaging over local connectivity | Android, Kotlin, BLE, Wi-Fi |
-| [**NSETerm**](https://github.com/ThunderKhan/NSETerm) | C++ market-data / paper-trading terminal | C++20 |
-| [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler pipeline from source to generated instructions | C++, CMake |
+| [AdapTQ](https://github.com/l3tchupkt/adaptq) | Quantization runtime and performance work, including AVX2 paths and runtime benchmarking. | C++, CMake, SIMD |
+| [Vāṇi](https://github.com/ThunderKhan/vani) | Offline multilingual voice messaging over BLE/Wi-Fi. | Kotlin, Android, BLE, Wi-Fi |
+| [NSETerm](https://github.com/ThunderKhan/NSETerm) | C++ terminal for market-data exploration and paper trading. | C++20 |
+| [Prometheus Compiler](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler exploring tokenization, AST construction, semantic analysis, and code generation. | C++, CMake |
 
-## Technical toolkit
+## Technical Skills
 
-**Languages**  
-C++ · Python · Java · JavaScript · TypeScript · C
+**Languages:** C++, Python, Java, JavaScript, TypeScript, C
 
-**Web & Application Development**  
-React · Node.js · Express · Vite · Tailwind CSS · REST APIs
+**Web:** React, Node.js, Express, Vite, Tailwind CSS, REST APIs
 
-**Systems & Developer Tools**  
-Git · GitHub · Linux · CMake · Debugging · Testing
+**Systems & Tools:** Git, GitHub, Linux, CMake, debugging, testing
 
-**Foundations**  
-Data Structures & Algorithms · OOP · Software Design · Machine Learning fundamentals
+**Core:** Data Structures & Algorithms, OOP, software design, machine learning fundamentals
 
-## Currently learning
+## Current Direction
 
-Machine learning fundamentals, JavaScript/TypeScript, performance-oriented C++, and how production software is designed, tested, and maintained through real open-source work.
+Deepening my work in systems and C++, building practical ML knowledge, learning modern JavaScript/TypeScript, and contributing consistently to open-source projects.
 
 ---
 
 <div align="center">
 
-**Build deliberately. Learn deeply. Contribute consistently.**
-
-Open to collaborating on open-source software, developer tools, and applied ML projects.
+Building software, studying the fundamentals, and contributing where the work is interesting.
 
 </div>
