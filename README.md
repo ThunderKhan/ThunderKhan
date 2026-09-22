@@ -1,13 +1,10 @@
 <div align="center">
 
-# Hi, I'm Ayan 👋
+# Ayan Khan 👋
 
-### Software developer in progress — learning deeply, building practically.
+### Software Developer • Open Source Contributor • ML & Data Science Student
 
-I’m an aspiring software developer exploring machine learning, data science, and practical software engineering through hands-on projects.
-
-I enjoy turning ideas into useful software, understanding how things work beneath
-the surface, and becoming a better problem solver one project at a time.
+I’m a second-year BCA student specializing in Machine Learning & Data Science, interested in systems, developer tooling, open source, and practical AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://thunderkhan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ayan-khan/)
@@ -19,53 +16,47 @@ the surface, and becoming a better problem solver one project at a time.
 
 ---
 
-## About me
+## What I'm focused on
 
-- I build **developer tools, web applications, and learning-driven projects**.
-- I practise **data structures, algorithms, and competitive programming** to sharpen my problem-solving.
-- I am building a strong foundation in **machine learning and data science**.
-- I am learning how real software is designed, tested, documented, and maintained through **open source and personal projects**.
-- I am especially curious about **compilers, developer tooling, AI-assisted software, and systems that make people more productive**.
+- 🔧 **Open source:** Contributor at **Open Source Connect India 2026**, currently working on [AdapTQ](https://github.com/l3tchupkt/adaptq) with C++, SIMD/AVX2 optimization, runtime benchmarking, and correctness testing.
+- 🎙️ **Systems project:** Building [Vāṇi](https://github.com/ThunderKhan/vani), an offline multilingual voice-messaging system designed around BLE/Wi-Fi connectivity for **SIH 2026**.
+- 🧪 **Research:** Exploring lightweight AI/ML systems research, including prompt sensitivity in quantized language models.
+- 🚀 **Long-term:** Building toward **GSoC 2027** through sustained open-source contributions and deeper systems work.
+- 📚 **Problem solving:** 223+ DSA problems solved while strengthening fundamentals in algorithms and software design.
 
-## Featured projects
+## Selected work
 
-| Project | What it does | Built with |
+| Project | Focus | Stack |
 | --- | --- | --- |
-| [**Tab Jumper**](https://github.com/ThunderKhan/tab-jumper) | A privacy-friendly Chrome extension for navigating tabs by visit history and instantly switching between the two most recent tabs. | JavaScript, Chrome APIs, Manifest V3 |
-| [**Employee Management System**](https://github.com/ThunderKhan/employee-management-system) | A responsive full-stack dashboard with JWT authentication, employee CRUD, search, filtering, validation, and statistics. | React, Node.js, Express, MongoDB |
-| [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | An experimental compiler that explores the journey from source code to tokens, an AST, semantic checks, and generated instructions. | C++, CMake |
-| [**Developer Portfolio**](https://github.com/ThunderKhan/ThunderKhan.github.io) | My editorial-style portfolio, built as a fast static site and automatically deployed through GitHub Actions. | React, TypeScript, Vite, Tailwind CSS |
+| [**AdapTQ**](https://github.com/l3tchupkt/adaptq) | Quantization runtime, SIMD optimization, AVX2 paths, benchmarking | C++, CMake |
+| [**Vāṇi**](https://github.com/ThunderKhan/vani) | Offline multilingual voice messaging over local connectivity | Android, Kotlin, BLE, Wi-Fi |
+| [**NSETerm**](https://github.com/ThunderKhan/NSETerm) | C++ market-data / paper-trading terminal | C++20 |
+| [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler pipeline from source to generated instructions | C++, CMake |
 
-## What I'm working on
+## Technical toolkit
 
-- Improving **Tab Jumper** and learning how to build reliable browser extensions.
-- Building portfolio-grade projects across **software development and ML**.
-- Studying DSA by patterns and documenting solutions in my [LeetCode repository](https://github.com/ThunderKhan/LeetCode-Solutions).
-- Learning open-source workflows through issues, branches, pull requests, reviews, and documentation.
+**Languages**  
+C++ · Python · Java · JavaScript · TypeScript · C
 
-## Tech I work with
+**Web & Application Development**  
+React · Node.js · Express · Vite · Tailwind CSS · REST APIs
 
-| | Technologies |
-| --- | --- |
-| **Languages** | C++, Python, Java, C, JavaScript, TypeScript |
-| **Web** | React, Node.js, Express, MongoDB, HTML, CSS, Tailwind CSS |
-| **Developer tools** | Git, GitHub, Linux, VS Code, Vite, CMake |
-| **Foundations** | Data Structures & Algorithms, OOP, REST APIs, SQL, debugging, testing |
+**Systems & Developer Tools**  
+Git · GitHub · Linux · CMake · Debugging · Testing
 
-## GitHub activity
+**Foundations**  
+Data Structures & Algorithms · OOP · Software Design · Machine Learning fundamentals
 
-<div align="center">
-  <a href="https://github.com/ThunderKhan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThunderKhan&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=00ff41&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&radius=10" alt="Ayan Khan's GitHub contribution graph" width="95%" />
-  </a>
-</div>
+## Currently learning
+
+Machine learning fundamentals, JavaScript/TypeScript, performance-oriented C++, and how production software is designed, tested, and maintained through real open-source work.
 
 ---
 
 <div align="center">
 
-### Code. Learn. Build. Repeat.
+**Build deliberately. Learn deeply. Contribute consistently.**
 
-*I'm always open to learning, collaborating, and contributing to meaningful projects.*
+Open to collaborating on open-source software, developer tools, and applied ML projects.
 
 </div>
