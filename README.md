@@ -46,6 +46,12 @@ Outside professional work, I build systems-oriented projects, contribute to open
 | [**Vāṇi**](https://github.com/ThunderKhan/vani) | Offline multilingual semantic voice communication designed for infrastructure-denied and constrained-network environments. | Kotlin, Android, BLE, Wi-Fi, ML |
 | [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler implementing lexing, recursive-descent parsing, AST construction, semantic analysis, and code generation. | C++23, CMake |
 
+<p align="center">
+  <a href="https://github.com/ThunderKhan/north-standard/actions/workflows/ci.yml"><img src="https://github.com/ThunderKhan/north-standard/actions/workflows/ci.yml/badge.svg" alt="North Standard CI" /></a>
+  <a href="https://github.com/ThunderKhan/diff2test/actions/workflows/ci.yml"><img src="https://github.com/ThunderKhan/diff2test/actions/workflows/ci.yml/badge.svg" alt="diff2test CI" /></a>
+  <a href="https://github.com/ThunderKhan/vani/actions/workflows/android-feasibility-probe.yml"><img src="https://github.com/ThunderKhan/vani/actions/workflows/android-feasibility-probe.yml/badge.svg" alt="Vāṇi Android feasibility probe" /></a>
+</p>
+
 ---
 
 ## Open Source
@@ -74,6 +80,16 @@ Machine Learning · LLM Systems · Multi-Agent Systems · Evaluation · Experime
 
 **Core CS**  
 Data Structures & Algorithms · OOP · Software Design · Compiler Fundamentals
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThunderKhan&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Ayan Khan's GitHub stats" />
+
+</div>
 
 ---
 
