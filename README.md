@@ -2,9 +2,9 @@
 
 # Ayan Khan
 
-**Student Software Developer | Open Source | C++ & Python | Systems, ML & Research**
+**Software Engineer Intern | C++ & Python | Systems, Compilers, Developer Tooling & ML**
 
-BCA student specializing in Machine Learning & Data Science, interested in systems programming, compiler/tooling work, open source, and applied machine learning.
+Building software across production web systems, developer tooling, systems programming, and applied ML.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://thunderkhan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ayan-khan/)
@@ -18,55 +18,87 @@ BCA student specializing in Machine Learning & Data Science, interested in syste
 
 ---
 
-## Current
+## Experience
 
-**Open Source · LLVM · Vāṇi · AI/ML Research · GSoC 2027 preparation**
+### Software Engineer Intern · Remote Stealth Startup
+**2026 — Present · Remote**
+
+Building production web interfaces and application workflows, with a focus on frontend engineering, maintainable component architecture, and product-facing software.
+
+---
 
 ## About
 
-I like working close to the implementation: understanding how software works underneath the abstractions, improving it when possible, and learning through real code.
+I work across **systems programming, developer tooling, compilers, and machine learning**, with most of my engineering centered around C++, Python, and software infrastructure.
 
-My interests sit at the intersection of **systems, performance, developer tooling, compilers, and machine learning**.
+I am particularly interested in problems where correctness, performance, developer experience, or system behavior matter more than simply assembling another application.
+
+Outside professional work, I build systems-oriented projects, contribute to open-source software, and work on research-driven engineering experiments.
+
+---
+
+## Selected Engineering Work
+
+| Project | Engineering Focus | Stack |
+| --- | --- | --- |
+| [**North Standard**](https://github.com/ThunderKhan/north-standard) | Contract-bound evidence verification for GPU-service settlement, with deterministic cross-language verification and on-chain settlement authorization. | C++20, Python, Solidity, Foundry |
+| [**diff2test**](https://github.com/ThunderKhan/diff2test) | Zero-runtime-dependency test-impact analysis for CMake/CTest using build metadata and conservative dependency reasoning. | C++20, CMake, CTest |
+| [**Vāṇi**](https://github.com/ThunderKhan/vani) | Offline multilingual semantic voice communication designed for infrastructure-denied and constrained-network environments. | Kotlin, Android, BLE, Wi-Fi, ML |
+| [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler implementing lexing, recursive-descent parsing, AST construction, semantic analysis, and code generation. | C++23, CMake |
+
+---
 
 ## Open Source
 
-Exploring the LLVM ecosystem and compiler/tooling development, while building the habits needed for long-term open-source contribution: reading unfamiliar codebases, understanding existing design, testing changes, and working through review-driven development.
+Working around the **LLVM and compiler/tooling ecosystem**, with particular interest in production C++ codebases, testing, debugging, implementation work, and review-driven development.
 
-## Selected Projects
+I am interested in contributing to projects involving:
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [**LLVM Project**](https://github.com/ThunderKhan/llvm-project) | Exploring a large-scale production compiler ecosystem and learning compiler internals through the LLVM codebase. | C++, LLVM, CMake |
-| [**Vāṇi**](https://github.com/ThunderKhan/vani) | Offline multilingual voice messaging designed around local connectivity and constrained-network operation. | Kotlin, Android, BLE, Wi-Fi |
-| [**NSETerm**](https://github.com/ThunderKhan/NSETerm) | C++ terminal for market-data exploration and paper trading. | C++20 |
-| [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler exploring tokenization, AST construction, semantic analysis, and code generation. | C++, CMake |
+**Compilers · Developer Infrastructure · Build Systems · Systems Software · Performance Tooling**
 
-## Engineering Interests
+---
 
-**Systems** · **Performance Engineering** · **Compilers** · **Developer Tooling** · **Applied ML** · **AI Systems**
+## Technical Focus
 
-## Technical Skills
+**Languages**  
+C++ · Python · TypeScript · JavaScript · Java · C
 
-**Languages:** C++, Python, Java, JavaScript, TypeScript, C
+**Systems & Tooling**  
+Linux · Git · GitHub · CMake · CTest · Debugging · Testing · CI
 
-**Web:** React, Node.js, Express, Vite, Tailwind CSS, REST APIs
+**Web Engineering**  
+React · Node.js · Express · Vite · Tailwind CSS · REST APIs
 
-**Systems & Tools:** Linux, Git, GitHub, CMake, debugging, testing
+**ML / AI**  
+Machine Learning · LLM Systems · Multi-Agent Systems · Evaluation · Experimentation
 
-**Core:** Data Structures & Algorithms, OOP, software design, machine learning fundamentals
+**Core CS**  
+Data Structures & Algorithms · OOP · Software Design · Compiler Fundamentals
 
-## Proof of Work
+---
 
-**223+** DSA problems · **OSCI'26** · **SIH'26** · C++ systems work · Applied ML research
+## Current Work
 
-## Current Direction
+Currently focused on:
 
-Deepening my understanding of C++ and systems, learning compiler internals through LLVM, building practical ML knowledge, and contributing consistently to open-source software.
+**Software Engineering** · production web systems and frontend engineering  
+**Systems** · modern C++, build systems, tooling, and performance  
+**Compilers** · compiler architecture and the LLVM ecosystem  
+**ML Systems** · evaluation, agent systems, and research-driven experiments  
+**Open Source** · contributing to substantial production codebases
+
+---
+
+## Beyond the Code
+
+**223+** DSA problems solved · **Open Source Connect India '26 Contributor** · **SIH '26** · systems and ML research projects
+
+Currently pursuing a **BCA in Machine Learning & Data Science** at Deen Dayal Upadhyaya Gorakhpur University, graduating in **2028**.
 
 ---
 
 <div align="center">
 
-Building software, studying the fundamentals, and contributing where the work is interesting.
+**Interested in systems, compilers, developer tooling, ML infrastructure, and ambitious engineering problems.**
 
 </div>
