@@ -1,120 +1,105 @@
 <div align="center">
 
-# Ayan Khan
-
-**Software Engineer Intern | C++ & Python | Systems, Compilers, Developer Tooling & ML**
-
-Building software across production web systems, developer tooling, systems programming, and applied ML.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://thunderkhan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-ayan-khan/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ThunderKhan/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ThunderBorneK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:AyanKhanOffiiciall@gmail.com)
-
-**BCA · Machine Learning & Data Science · Class of 2028**
-
-</div>
-
----
-
-## Experience
-
-### Software Engineer Intern · Remote Stealth Startup
-**2026 — Present · Remote**
-
-Building production web interfaces and application workflows, with a focus on frontend engineering, maintainable component architecture, and product-facing software.
-
----
-
-## About
-
-I work across **systems programming, developer tooling, compilers, and machine learning**, with most of my engineering centered around C++, Python, and software infrastructure.
-
-I am particularly interested in problems where correctness, performance, developer experience, or system behavior matter more than simply assembling another application.
-
-Outside professional work, I build systems-oriented projects, contribute to open-source software, and work on research-driven engineering experiments.
-
----
-
-## Selected Engineering Work
-
-| Project | Engineering Focus | Stack |
-| --- | --- | --- |
-| [**North Standard**](https://github.com/ThunderKhan/north-standard) | Contract-bound evidence verification for GPU-service settlement, with deterministic cross-language verification and on-chain settlement authorization. | C++20, Python, Solidity, Foundry |
-| [**diff2test**](https://github.com/ThunderKhan/diff2test) | Zero-runtime-dependency test-impact analysis for CMake/CTest using build metadata and conservative dependency reasoning. | C++20, CMake, CTest |
-| [**Vāṇi**](https://github.com/ThunderKhan/vani) | Offline multilingual semantic voice communication designed for infrastructure-denied and constrained-network environments. | Kotlin, Android, BLE, Wi-Fi, ML |
-| [**Prometheus Compiler**](https://github.com/ThunderKhan/prometheus-compiler) | Experimental compiler implementing lexing, recursive-descent parsing, AST construction, semantic analysis, and code generation. | C++23, CMake |
-
-<p align="center">
-  <a href="https://github.com/ThunderKhan/north-standard/actions/workflows/ci.yml"><img src="https://github.com/ThunderKhan/north-standard/actions/workflows/ci.yml/badge.svg" alt="North Standard CI" /></a>
-  <a href="https://github.com/ThunderKhan/diff2test/actions/workflows/ci.yml"><img src="https://github.com/ThunderKhan/diff2test/actions/workflows/ci.yml/badge.svg" alt="diff2test CI" /></a>
-  <a href="https://github.com/ThunderKhan/vani/actions/workflows/android-feasibility-probe.yml"><img src="https://github.com/ThunderKhan/vani/actions/workflows/android-feasibility-probe.yml/badge.svg" alt="Vāṇi Android feasibility probe" /></a>
-</p>
-
----
-
-## Open Source
-
-Working around the **LLVM and compiler/tooling ecosystem**, with particular interest in production C++ codebases, testing, debugging, implementation work, and review-driven development.
-
-I am interested in contributing to projects involving:
-
-**Compilers · Developer Infrastructure · Build Systems · Systems Software · Performance Tooling**
-
----
-
-## Technical Focus
-
-**Languages**  
-C++ · Python · TypeScript · JavaScript · Java · C
-
-**Systems & Tooling**  
-Linux · Git · GitHub · CMake · CTest · Debugging · Testing · CI
-
-**Web Engineering**  
-React · Node.js · Express · Vite · Tailwind CSS · REST APIs
-
-**ML / AI**  
-Machine Learning · LLM Systems · Multi-Agent Systems · Evaluation · Experimentation
-
-**Core CS**  
-Data Structures & Algorithms · OOP · Software Design · Compiler Fundamentals
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThunderKhan&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Ayan Khan's GitHub stats" />
+<table width="100%">
+<tr>
+<td width="66%" valign="middle">
+<p><sub>ENGINEERING PROFILE · BUILDING IN PUBLIC</sub></p>
+<h1>Ayan Khan</h1>
+<h3>Frontend &amp; full-stack development · C++ developer tooling</h3>
+<p>I build user-facing applications and the systems behind them—from <strong>React/FastAPI workflows</strong> to <strong>C++ build tools and compilers</strong>. I care about correctness, maintainability, and clear engineering trade-offs.</p>
+<p><strong>Software Engineering Intern</strong> · BCA (Machine Learning &amp; Data Science), Class of 2028</p>
+<p>📍 Gorakhpur, India</p>
+<p><a href="https://ayankhan.me/">Portfolio</a> · <a href="https://www.linkedin.com/in/the-ayan-khan/">LinkedIn</a> · <a href="https://github.com/ThunderKhan">GitHub</a> · <a href="mailto:AyanKhanOffiiciall@gmail.com">Email</a> · <a href="https://x.com/ThunderBorneK">X</a></p>
+</td>
+<td width="34%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/211229353?v=4" width="180" alt="Ayan Khan's GitHub avatar" />
+</td>
+</tr>
+</table>
 
 </div>
 
+## What teams can evaluate quickly
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Product engineering</h3><p>React, TypeScript, Next.js, Tailwind CSS, and API-backed application workflows.</p></td>
+<td width="33%" valign="top"><h3>Systems &amp; tooling</h3><p>Modern C++, CMake/CTest, compilers, build metadata, and test automation.</p></td>
+<td width="33%" valign="top"><h3>Engineering evidence</h3><p>Public source code, reproducible setup instructions, CI checks, and documented limitations.</p></td>
+</tr>
+</table>
+
+## Selected work
+
+<table width="100%">
+<tr>
+<td width="55%" valign="middle">
+<a href="https://github.com/ThunderKhan/diff2test"><img src="https://raw.githubusercontent.com/ThunderKhan/diff2test/main/assets/diff2test-hero.png" width="100%" alt="diff2test: CMake and CTest test-impact analysis" /></a>
+</td>
+<td width="45%" valign="middle">
+<h3><a href="https://github.com/ThunderKhan/diff2test">diff2test</a></h3>
+<p><strong>C++20 · CMake · CTest</strong></p>
+<p>A zero-runtime-dependency test-impact analyzer that maps changed files to relevant CTest tests using CMake and compiler metadata.</p>
+<p>Its key design choice: <strong>if the evidence is insufficient, widen the test selection instead of guessing.</strong></p>
+<p><a href="https://github.com/ThunderKhan/diff2test">Source, safety model &amp; usage →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/ThunderKhan/oasis">O.A.S.I.S.</a></h3>
+<p><strong>Next.js · TypeScript · FastAPI · SQLite</strong></p>
+<p>A full-stack hackathon prototype for explainable cancer-screening and referral prioritization workflows. Includes a multi-step assessment UI and API-backed results. <em>Not a validated diagnostic tool.</em></p>
+<p><a href="https://github.com/ThunderKhan/oasis">View project →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/ThunderKhan/prometheus-compiler">Prometheus Compiler</a></h3>
+<p><strong>C++23 · CMake</strong></p>
+<p>An experimental language compiler with lexing, recursive-descent parsing, AST construction, semantic checks, and code generation.</p>
+<p><a href="https://github.com/ThunderKhan/prometheus-compiler">View project →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/ThunderKhan/north-standard">North Standard</a></h3>
+<p><strong>C++20 · Python · Solidity</strong></p>
+<p>An engineering research project exploring deterministic verification of GPU-service evidence and contract-bound settlement authorization.</p>
+<p><a href="https://github.com/ThunderKhan/north-standard">View project →</a></p>
+</td>
+</tr>
+</table>
+
+**More experiments:** [Vāṇi / MeshVoice](https://github.com/ThunderKhan/vani) — offline multilingual voice communication research and Android feasibility work · [Markov Text Generator](https://github.com/ThunderKhan/markov-text-cpp) — a modular C++ probabilistic text generator.
+
+## Technical toolkit
+
+| Area | Tools and technologies |
+| --- | --- |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite |
+| **Backend** | Python, FastAPI, Node.js, Express, REST APIs, SQLite |
+| **Systems & developer tools** | C, C++20/23, CMake, CTest, Git, Linux, GitHub Actions |
+| **ML & experimentation** | Python, Jupyter, pandas, scikit-learn, LLM evaluation |
+
+## Currently
+
+I work on **production web interfaces and application workflows** in a remote software engineering internship. Outside work, I'm exploring **compiler construction, developer infrastructure, modern C++, and machine-learning systems** through open-source and independent projects.
+
+I'm pursuing a **BCA in Machine Learning & Data Science** at **Deen Dayal Upadhyaya Gorakhpur University**, with expected graduation in **2028**.
+
+For recent activity, see my [GitHub profile and contributions](https://github.com/ThunderKhan) rather than a static count that becomes outdated.
+
 ---
 
-## Current Work
-
-Currently focused on:
-
-**Software Engineering** · production web systems and frontend engineering  
-**Systems** · modern C++, build systems, tooling, and performance  
-**Compilers** · compiler architecture and the LLVM ecosystem  
-**ML Systems** · evaluation, agent systems, and research-driven experiments  
-**Open Source** · contributing to substantial production codebases
-
----
-
-## Beyond the Code
-
-**223+** DSA problems solved · **Open Source Connect India '26 Contributor** · **SIH '26** · systems and ML research projects
-
-Currently pursuing a **BCA in Machine Learning & Data Science** at Deen Dayal Upadhyaya Gorakhpur University, graduating in **2028**.
-
----
-
-<div align="center">
-
-**Interested in systems, compilers, developer tooling, ML infrastructure, and ambitious engineering problems.**
-
-</div>
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
+<h2>Let's build something useful</h2>
+<p>Interested in frontend/full-stack work, developer tools, systems engineering, and open-source collaboration.</p>
+</td>
+<td width="35%" valign="middle" align="right">
+<a href="mailto:AyanKhanOffiiciall@gmail.com">Email me →</a><br />
+<a href="https://www.linkedin.com/in/the-ayan-khan/">LinkedIn →</a><br />
+<a href="https://ayankhan.me/">Portfolio →</a>
+</td>
+</tr>
+</table>
